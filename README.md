@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Heitor Ferrari 👋</h1>
 
 <p align="center">
-  Estudante de Engenharia de Software | Estagiário na Eva Soluções | Apaixonado por tecnologia
+  Estudante de Engenharia de Software | 
 </p>
 
 ---
